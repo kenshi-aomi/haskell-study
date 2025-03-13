@@ -1,2 +1,2 @@
 # haskell-study
-This project is for haskell study log.
+This project is for studying Haskell.
