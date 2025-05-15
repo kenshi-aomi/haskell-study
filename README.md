@@ -1,2 +1,2 @@
 # haskell-study
-This project is for studying Haskell.
+Haskellについて勉強したことメモ.
